@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\Author.class
+com\example\demo\repository\BookRepository.class
+com\example\demo\entity\Book.class
+com\example\demo\entity\Publisher.class
+com\example\demo\controller\BookController.class
+com\example\demo\repository\AuthorRepository.class
+com\example\demo\repository\PublisherRepository.class
